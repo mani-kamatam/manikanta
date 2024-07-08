@@ -1,6 +1,5 @@
-# manikanta
+# Batch237
 
-github link
+sandipmohapatra123@gmail.com
 
-
-https://github.com/sandipmohapatra/Batch237/blob/mohapatra2018/SDLC.txt
+9777237288
