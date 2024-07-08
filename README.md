@@ -11,7 +11,3 @@ sandipmohapatra123@gmail.com
 https://github.com/sandipmohapatra/Batch237
 
 postgre sql -download
-
-
-
-
