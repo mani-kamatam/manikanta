@@ -25,7 +25,12 @@ ssh -T git@github.com
 git push origin branchname
 
 
-
+-------------------------------------------------------weblinks
+chatgpt
+sanfoundry
+javatpoint
+geeks for geeks
+w3 school
 ---------------------------------------------------- my sql
 
 delete from student237 where empno=104;
