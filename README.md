@@ -12,3 +12,4 @@ https://github.com/sandipmohapatra/Batch237
 https://github.com/sandipmohapatra/cognizant2023
 
 postgre sql -download
+javapoint.com
