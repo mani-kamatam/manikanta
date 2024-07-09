@@ -31,3 +31,4 @@ git push origin branchname
 delete from student237 where empno=104;
  truncate table student237;
  desc student237;
+drop table student237;
