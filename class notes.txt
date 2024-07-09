@@ -1,3 +1,4 @@
+------------------------------------------------git hub
 ls -l
 vi filename.txt  ( after edting ESC :wq ENTER )
 cat filename.txt
@@ -24,3 +25,9 @@ ssh -T git@github.com
 git push origin branchname
 
 
+
+---------------------------------------------------- my sql
+
+delete from student237 where empno=104;
+ truncate table student237;
+ desc student237;
