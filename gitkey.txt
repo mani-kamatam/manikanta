@@ -1,0 +1,26 @@
+ls -l
+vi filename.txt  ( after edting ESC :wq ENTER )
+cat filename.txt
+git remote add origin " copy paste git link"
+git pull origin main
+git status
+git add filename.txt
+git commit -m " any message "
+ls -l
+git branch branchname
+git checkout branchname
+vi filename.txt
+git status
+git add filename.txt
+git commit -m " any message "
+git checkout branchname
+git merge branchname
+ls -l
+
+ssh-keygen
+cat (copy paste public link)
+copy the key and paste in github ssh 
+ssh -T git@github.com
+git push origin branchname
+
+
