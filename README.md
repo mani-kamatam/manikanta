@@ -13,3 +13,8 @@ https://github.com/sandipmohapatra/cognizant2023
 
 postgre sql -download
 javapoint.com
+
+
+
+
+https://youtu.be/iR2O2GPbB0E
