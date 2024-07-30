@@ -25,6 +25,9 @@ https://youtu.be/iR2O2GPbB0E
 import java.util.Scanner;
 
 
+////// java online mcqs///////----->    https://www.javaguides.net/2024/05/java-coding-mcq-questions.html   <---------
+
+
 
 
 
