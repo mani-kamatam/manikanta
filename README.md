@@ -29,7 +29,7 @@ import java.util.Scanner;
 
 
 
-mcqs -----https://durgasoft.com/scjp_material.asp--------
+mcqs -----        https://durgasoft.com/scjp_material.asp     --------
 
 
 
