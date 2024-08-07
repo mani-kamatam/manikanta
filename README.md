@@ -29,6 +29,13 @@ import java.util.Scanner;
 
 
 
+mcqs -----https://durgasoft.com/scjp_material.asp--------
+
+
+
+
+
+
 
 
 
