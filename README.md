@@ -32,6 +32,9 @@ import java.util.Scanner;
 mcqs -----        https://durgasoft.com/scjp_material.asp     --------
 
 
+questions -----    https://durgasoft.com/Java_Interview_Questions.asp  --- - - ---
+
+
 
 
 
